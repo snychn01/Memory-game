@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-* [About the game](#About the game)
-* [Features of the game](#Features of the game)
+* [About](#About)
+* [Features](#Features)
 * [Installation](#Installation)
 * [Usage](#Usage)
 
 
-## About the game
+## About
 
 Memory game also known as Concentration, is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards.
 
@@ -17,7 +17,7 @@ Memory game also known as Concentration, is a card game in which all of the card
    * Then try to match all pairs in as minimum moves as possible.
 
 
-## Features of the game
+## Features
     
    * Timer
    * Move counter
