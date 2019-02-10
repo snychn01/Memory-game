@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-* [About the game] (#About the game)
+* [About the game](#About the game)
 * [Features of the game](#Features of the game)
-* [How to run](#How to run)
-* [How to play](#How to play)
+* [Installation](#Installation)
+* [Usage](#Usage)
 
 
 ## About the game
@@ -25,14 +25,14 @@ Memory game also known as Concentration, is a card game in which all of the card
    * Ability to restart the game at any time
     
     
-## How to run
+## Installation
 
    '''Download/clone the repository.'''
    '''Extract the .zip file.'''
    '''Open index.html in your browser.'''
 
 
-## How to play
+## Usage
 
    * You have to match cards with identical face.
    * Your moves are counted out as you proceed the game.
