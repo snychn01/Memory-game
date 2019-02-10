@@ -2,19 +2,42 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [About the game](#About the game)
+* [Features of the game](#Features of the game)
+* [How to run](#How to run)
+* [How to play](#How to play)
 
-## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## About the game
 
-To get started, open `js/app.js` and start building out the app's functionality
+Memory game also known as Concentration, is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+    Clicking on tiles will turn them over so that you can see what lies on them.
+    Your goal is to match two tiles of the same type at a time.
+    Then try to match all pairs in as minimum moves as possible.
 
-## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## Features of the game
+    
+    Timer
+    Move counter
+    Rating
+    Ability to restart the game at any time
+    
+    
+## How to run
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+    Download/clone the repository.
+    Extract the .zip file.
+    Open index.html in your browser.
+
+
+## How to play
+
+    You have to match cards with identical face.
+    Your moves are counted out as you proceed the game.
+    If moves = 8; then Rating = 3 Stars.
+    If 16<moves<25; then Rating = 2 Stars.
+    Else Rating = 1 star.
+    You can restart the game any time.
+
