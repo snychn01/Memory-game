@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* [About the game](#About the game)
+* [About the game] (#About the game)
 * [Features of the game](#Features of the game)
 * [How to run](#How to run)
 * [How to play](#How to play)
@@ -27,9 +27,9 @@ Memory game also known as Concentration, is a card game in which all of the card
     
 ## How to run
 
-    'Download/clone the repository.'
-    'Extract the .zip file.'
-    'Open index.html in your browser.'
+    '''Download/clone the repository.'''
+    '''Extract the .zip file.'''
+    '''Open index.html in your browser.'''
 
 
 ## How to play
