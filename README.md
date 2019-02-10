@@ -27,9 +27,9 @@ Memory game also known as Concentration, is a card game in which all of the card
     
 ## Installation
 
-   '''Download/clone the repository.'''
-   '''Extract the .zip file.'''
-   '''Open index.html in your browser.'''
+   ```Download/clone the repository.```
+   ```Extract the .zip file.```
+   ```Open index.html in your browser.```
 
 
 ## Usage
